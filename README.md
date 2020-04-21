@@ -2,7 +2,7 @@ Some links used during the session:
 
 1. [Support Vector Machine](https://www.sciencedirect.com/topics/mathematics/support-vector-machines)
 
-2. [Support Vector Machine Diagram] (https://www.r-bloggers.com/support-vector-machines-with-the-mlr-package/)
+2. [Support Vector Machine Diagram](https://www.r-bloggers.com/support-vector-machines-with-the-mlr-package/)
 
 3. [Baye's Theorem](https://www.mathsisfun.com/data/bayes-theorem.html)
 
