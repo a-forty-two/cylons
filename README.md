@@ -15,4 +15,3 @@ Some links used during the session:
 7. [Integration](https://www.mathsisfun.com/calculus/integration-rules.html)
 
 8. [Bias-Variance Trade Off](https://machinelearningmastery.com/gentle-introduction-to-the-bias-variance-trade-off-in-machine-learning/)
-
