@@ -1,0 +1,28 @@
+ENCODING is converting one format into another
+DECODING is reverse engineering encoded format
+
+ENCRYPTION's objective is to HIDE or protect information 
+
+ENCODING is to process the information BETTER 
+A => 65 10 ->  4 bit encoding 
+ASSUME -> 0110 0101 0001 0000
+
+Comp1: 8 bit encoding
+0110 0101 0001 0000 -> 101 16 -> INFORMATION CHANGED, could lead to errors also! 
+
+Comp2: 16 bit encoding -> XYZ!!! 
+
+BITs remained the same but the way of reading changed! 
+THIS IS ALSO A TYPE OF ENCODING!!!
+
+CONVERTING from one language into another -> ENCODING/GAME 
+
+AUDIO raw wave file into MP3 -> encoding 
+
+PNG to JPG -> ENCODING 
+
+-> it was in the order of occurance -> previous occurances
+-> the tag was larger, but for proceeding occuraces will be smaller
+ 2593208677638477497
+ 9188597074677201817
+10554686591937588953
