@@ -1,0 +1,162 @@
+Mantis shrimps, or stomatopods, are marine crustaceans of the order Stomatopoda. Some species have specialised calcified "clubs" that can strike with great power, while others have sharp forelimbs used to capture prey. They branched from other members of the class Malacostraca around 340 million years ago.[2] Mantis shrimps typically grow to around 10 cm (3.9 in) in length. A few can reach up to 38 cm (15 in).[3] The largest mantis shrimp ever caught had a length of 46 cm (18 in); it was caught in the Indian River near Fort Pierce, Florida, in the United States.[4] A mantis shrimp's carapace (the bony, thick shell that covers crustaceans and some other species) covers only the rear part of the head and the first four segments of the thorax. Varieties range in color from shades of brown to vivid colors, with more than 450 species of mantis shrimps being known. They are among the most important predators in many shallow, tropical and subtropical marine habitats. However, despite being common, they are poorly understood, as many species spend most of their lives tucked away in burrows and holes.[5]
+
+Called "sea locusts" by ancient Assyrians, "prawn killers" in Australia,[6] and now sometimes referred to as "thumb splitters"—because of the animal's ability to inflict painful gashes if handled incautiously[7]—mantis shrimps have powerful claws that are used to attack and kill prey by spearing, stunning, or dismembering.
+
+Ecology
+Around 451 species of mantis shrimps have currently been discovered worldwide; all living species are in the suborder Unipeltata which arose around 193 million years ago.[8][2]
+
+These aggressive and typically solitary sea creatures spend most of their time hiding in rock formations or burrowing intricate passageways in the sea bed. They rarely exit their homes except to feed and relocate, and can be active during the day, nocturnal, or active primarily at twilight, depending on the species. Unlike most crustaceans, they sometimes hunt, chase, and kill prey. Although some live in temperate seas, most species live in tropical and subtropical waters in the Indian and Pacific Oceans between eastern Africa and Hawaii.
+
+Habitat
+Mantis shrimp live in burrows where they spend the majority of their time.[9] The two different categories of mantis shrimp – spearing and smashing – favor different locations for burrowing.[9] The spearing species build their habitat in soft sediments and the smashing species make burrows in hard substrata or coral cavities.[9] These two habitats are crucial for their ecology since they use burrows as sites for retreat and as locations for consuming their prey.[9] Burrows and coral cavities are also used as sites for mating and for keeping their eggs safe.[9]Stomatopod body size undergoes periodic growth which necessitates finding a new cavity or burrow that will fit the animal's new diameter.[9] Some spearing species can modify their pre-established habitat if the burrow is made of silt or mud, which can be expanded.[9]
+
+Claws
+
+Squilla mantis, showing the spearing appendages
+
+Mantis shrimp from the front
+The mantis shrimp's second pair of thoracic appendages has been adapted for powerful close-range combat with high modifications. The appendage differences divide mantis shrimp into two main types: those that hunt by impaling their prey with spear-like structures and those that smash prey with a powerful blow from a heavily mineralised club-like appendage. A considerable amount of damage can be inflicted after impact with these robust, hammer-like claws. This club is further divided into three subregions: the impact region, the periodic region, and the striated region. Mantis shrimp are commonly separated into two distinct groups determined by the type of claws they possess:
+
+Smashers possess a much more developed club and a more rudimentary spear (which is nevertheless quite sharp and still used in fights between their own kind); the club is used to bludgeon and smash their meals apart. The inner aspect of the terminal portion of the appendage can also possess a sharp edge, used to cut prey while the mantis shrimp swims.
+Spearers are armed with spiny appendages topped with barbed tips, used to stab and snag prey.
+Both types strike by rapidly unfolding and swinging their raptorial claws at the prey, and can inflict serious damage on victims significantly greater in size than themselves. In smashers, these two weapons are employed with blinding quickness, with an acceleration of 10,400 g (102,000 m/s2 or 335,000 ft/s2) and speeds of 23 m/s (83 km/h; 51 mph) from a standing start.[10] Because they strike so rapidly, they generate vapor-filled bubbles in the water between the appendage and the striking surface—known as cavitation bubbles.[10] The collapse of these cavitation bubbles produces measurable forces on their prey in addition to the instantaneous forces of 1,500 newtons that are caused by the impact of the appendage against the striking surface, which means that the prey is hit twice by a single strike; first by the claw and then by the collapsing cavitation bubbles that immediately follow.[11] Even if the initial strike misses the prey, the resulting shock wave can be enough to stun or kill.
+
+The impact can also produce sonoluminescence from the collapsing bubble. This will produce a very small amount of light within the collapsing bubble, although the light is too weak and short-lived to be detected without advanced scientific equipment. The light emission probably has no biological significance, but is rather a side effect of the rapid snapping motion. Pistol shrimp produce this effect in a very similar manner.
+
+Smashers use this ability to attack snails, crabs, molluscs, and rock oysters, their blunt clubs enabling them to crack the shells of their prey into pieces. Spearers, however, prefer the meat of softer animals, such as fish, which their barbed claws can more easily slice and snag.
+
+The appendages are being studied as a microscale analogue for new macroscale material structures.[12]
+
+Eyes
+
+The front of Lysiosquillina maculata, showing the stalked eyes
+The eyes of the mantis shrimp are mounted on mobile stalks and can move independently of each other. They are thought to have the most complex eyes in the animal kingdom and have the most complex visual system ever discovered.[13][14][15] Compared to the three types of photoreceptor cells that humans possess in their eyes, the eyes of a mantis shrimp have between 12 and 16 types of photoreceptors cells. Furthermore, some of these shrimp can tune the sensitivity of their long-wavelength colour vision to adapt to their environment.[16] This phenomenon, called "spectral tuning", is species-specific.[17] Cheroske et al. did not observe spectral tuning in Neogonodactylus oerstedii, the species with the most monotonous natural photic environment. In N. bredini, a species with a variety of habitats ranging from a depth of 5 to 10 m (although it can be found down to 20 m below the surface), spectral tuning was observed, but the ability to alter wavelengths of maximum absorbance was not as pronounced as in N. wennerae, a species with much higher ecological/photic habitat diversity. The diversity of spectral tuning in Stomatopoda is also hypothesized to be directly linked to mutations on the opsin gene's chromophore binding pocket.[18]
+
+Despite the impressive range of wavelengths that Mantis shrimp have the ability to see, they do not have the ability to discriminate wavelengths less than 25 nm apart. It is suggested that not discriminating between closely positioned wavelengths allows these organisms to make determinations of its surroundings with little processing delay. Having little delay in evaluating surroundings is important for Mantis shrimp since they are frequently in combat and territorial.[19]
+
+
+Closeup of a mantis shrimp showing the structure of the eyes
+Each compound eye is made up of up tens of thousands of ommatidia, clusters of photoreceptor cells.[14] Each eye consists of two flattened hemispheres separated by parallel rows of specialised ommatidia, collectively called the midband. The number of omatidial rows in the midband ranges from two to six.[13][14] This divides the eye into three regions. This configuration enables mantis shrimp to see objects with three parts of the same eye. In other words, each eye possesses trinocular vision and therefore depth perception. The upper and lower hemispheres are used primarily for recognition of form and motion, like the eyes of many other crustaceans.[13]
+
+Mantis shrimp can perceive wavelengths of light ranging from deep ultraviolet (UVB) to far-red (300 to 720 nm) and polarized light.[14][19] In mantis shrimp in the superfamilies Gonodactyloidea, Lysiosquilloidea, and Hemisquilloidea, the midband is made up of six omatodial rows. Rows 1 to 4 process colours, while rows 5 and 6 detect circularly or linearly polarized light. Twelve types of photoreceptor cells are in rows 1 to 4, four of which detect ultraviolet light.[13][14][19][20]
+
+Rows 1 to 4 of the midband are specialised for colour vision, from deep ultraviolet to far red. Their UV vision can detect five different frequency bands in the deep ultraviolet. To do this, they use two photoreceptors in combination with four different colour filters.[21][22] They are not currently believed to be sensitive to infrared light.[23] The optical elements in these rows have eight different classes of visual pigments and the rhabdom (area of eye that absorbs light from a single direction) is divided into three different pigmented layers (tiers), each for different wavelengths. The three tiers in rows 2 and 3 are separated by colour filters (intrarhabdomal filters) that can be divided into four distinct classes, two classes in each row. It is organised like a sandwich - a tier, a colour filter of one class, a tier again, a colour filter of another class, and then a last tier. These colour filters allow the mantis shrimp to see with diverse colour vision. Without the filters, the pigments themselves range only a small segment of the visual spectrum, about 490 to 550 nm.[24] Rows 5 and 6 are also segregated into different tiers, but have only one class of visual pigment, the ninth class, and are specialised for polarization vision. Depending upon the species, they can detect circularly polarized light, linearly polarised light, or both. A tenth class of visual pigment is found in the upper and lower hemispheres of the eye.[13]
+
+Some species have at least 16 photoreceptor types, which are divided into four classes (their spectral sensitivity is further tuned by colour filters in the retinas), 12 for colour analysis in the different wavelengths (including six which are sensitive to ultraviolet light[21][25]) and four for analysing polarised light. By comparison, most humans have only four visual pigments, of which three are dedicated to see colour, and human lenses block ultraviolet light. The visual information leaving the retina seems to be processed into numerous parallel data streams leading into the brain, greatly reducing the analytical requirements at higher levels.[26]
+
+Six species of mantis shrimp have been reported to be able to detect circularly polarized light, which has not been documented in any other animal, and whether it is present across all species is unknown.[27][28][29] Some of their biological quarter-waveplates perform more uniformly over the visual spectrum than any current man-made polarising optics, and this could inspire new types of optical media that would outperform the current generation of Blu-ray Disc technology.[30][31]
+
+The species Gonodactylus smithii is the only organism known to simultaneously detect the four linear and two circular polarisation components required to measure all four Stokes parameters, which yield a full description of polarisation. It is thus believed to have optimal polarisation vision.[28][32] It is the only animal known to have dynamic polarisation vision. This is achieved by rotational eye movements to maximise the polarisation contrast between the object in focus and its background.[33] Since each eye moves independently from the other, it creates two separate streams of visual information.[34]
+
+The midband covers only about 5 to 10° of the visual field at any given instant, but like most crustaceans, mantis shrimps' eyes are mounted on stalks. In mantis shrimps, the movement of the stalked eye is unusually free, and can be driven up to 70° in all possible axes of movement by eight eyecup muscles divided into six functional groups. By using these muscles to scan the surroundings with the midband, they can add information about forms, shapes, and landscape, which cannot be detected by the upper and lower hemispheres of the eyes. They can also track moving objects using large, rapid eye movements where the two eyes move independently. By combining different techniques, including movements in the same direction, the midband can cover a very wide range of the visual field.
+
+The huge diversity seen in mantis shrimp photoreceptors likely comes from ancient gene duplication events.[24][35] One interesting consequence of this duplication is the lack of correlation between opsin transcript number and physiologically expressed photoreceptors.[24] One species may have six different opsin genes, but only express one spectrally distinct photoreceptor. Over the years, some mantis shrimp species have lost the ancestral phenotype, although some still maintain 16 distinct photoreceptors and four light filters. Species that live in a variety of photic environments have high selective pressure for photoreceptor diversity, and maintain ancestral phenotypes better than species that live in murky waters or are primarily nocturnal.[24][36]
+
+Suggested advantages of visual system
+
+Close-up of the trinocular vision of Pseudosquilla ciliata
+What advantage sensitivity to polarisation confers is unclear; however, polarisation vision is used by other animals for sexual signaling and secret communication that avoids the attention of predators.[37] This mechanism could provide an evolutionary advantage; it only requires small changes to the cell in the eye and could be easily lead to natural selection.[38]
+
+The eyes of mantis shrimps may enable them to recognise different types of coral, prey species (which are often transparent or semitransparent), or predators, such as barracuda, which have shimmering scales. Alternatively, the manner in which they hunt (very rapid movements of the claws) may require very accurate ranging information, which would require accurate depth perception.
+
+During mating rituals, mantis shrimps actively fluoresce, and the wavelength of this fluorescence matches the wavelengths detected by their eye pigments.[39] Females are only fertile during certain phases of the tidal cycle; the ability to perceive the phase of the moon may, therefore, help prevent wasted mating efforts. It may also give these shrimps information about the size of the tide, which is important to species living in shallow water near the shore.
+
+The capacity to see UV light may enable observation of otherwise hard-to-detect prey on coral reefs.[25]
+
+Their visual experience of colours is not very different from humans; the eyes are actually a mechanism that operates at the level of individual cones and makes the brain more efficient. This system allows visual information to be preprocessed by the eyes instead of the brain, which would otherwise have to be larger to deal with the stream of raw data, thus requiring more time and energy. While the eyes themselves are complex and not yet fully understood, the principle of the system appears to be simple.[40] It is similar in function to the human eye, but works in the opposite manner. In the human brain, the inferior temporal cortex has a huge number of colour-specific neurons, which process visual impulses from the eyes to create colourful experiences. The mantis shrimp instead uses the different types of photoreceptors in its eyes to perform the same function as the human brain neurons, resulting in a hardwired and more efficient system for an animal that requires rapid colour identification. Humans have fewer types of photoreceptors, but more colour-tuned neurons, while mantis shrimps appears to have fewer colour neurons and more classes of photoreceptors.[41]
+
+A publication by researchers from the University of Queensland stated that the compound eyes of mantis shrimp can detect cancer and the activity of neurons, because they are sensitive to detecting polarised light that reflects differently from cancerous and healthy tissue. The study claims that this ability can be replicated through a camera through the use of aluminium nanowires to replicate polarisation-filtering microvilli on top of photodiodes.[42][43] In February 2016, the shrimps were found to be using a form of reflector of polarised light not seen in nature or human technology before. It allows the manipulation of light across the structure rather than through its depth, the typical way polarisers work. This allows the structure to be both small and microscopically thin, and still be able to produce big, bright, colourful polarised signals.[44]
+
+Behaviour
+
+Drawing of a mantis shrimp by Richard Lydekker, 1896
+Mantis shrimps are long-lived and exhibit complex behaviour, such as ritualised fighting. Some species use fluorescent patterns on their bodies for signalling with their own and maybe even other species, expanding their range of behavioural signals. They can learn and remember well, and are able to recognise individual neighbours with which they frequently interact. They can recognise them by visual signs and even by individual smell. Many have developed complex social behaviours to defend their space from rivals.
+
+In a lifetime, they can have as many as 20 or 30 breeding episodes. Depending on the species, the eggs can be laid and kept in a burrow, or they can be carried around under the female's tail until they hatch. Also depending on the species, males and females may come together only to mate, or they may bond in monogamous, long-term relationships.[45]
+
+In the monogamous species, the mantis shrimps remain with the same partner up to 20 years. They share the same burrow and may be able to coordinate their activities. Both sexes often take care of the eggs (bi parental care). In Pullosquilla and some species in Nannosquilla, the female lays two clutches of eggs - one that the male tends and one that the female tends. In other species, the female looks after the eggs while the male hunts for both of them. After the eggs hatch, the offspring may spend up to three months as plankton.
+
+Although stomatopods typically display the standard types of movement seen in true shrimp and lobsters, one species, Nannosquilla decemspinosa, has been observed flipping itself into a crude wheel. The species lives in shallow, sandy areas. At low tides, N. decemspinosa is often stranded by its short rear legs, which are sufficient for movement when the body is supported by water, but not on dry land. The mantis shrimp then performs a forward flip in an attempt to roll towards the next tide pool. N. has been observed to roll repeatedly for 2 m (6.6 ft), but specimens typically travel less than 1 m (3.3 ft).[46]
+
+Culinary uses
+
+Mantis shrimp caught at Hậu Lộc, Thanh Hóa, Vietnam
+In Japanese cuisine, the mantis shrimp species Oratosquilla oratoria, called shako (蝦蛄), is eaten boiled as a sushi topping, and occasionally raw as sashimi.
+
+Mantis shrimps are abundant along Vietnam's coast, known in Vietnamese as bề bề or tôm tít. In regions such as Nha Trang, they are called bàn chải, named for its resemblance to a scrub brush. The shrimp can be steamed, boiled, grilled, or dried, used with pepper, salt and lime, fish sauce and tamarind, or fennel.[47]
+
+In Cantonese cuisine, the mantis shrimp is known as "pissing shrimp" (Chinese: 瀨尿蝦; pinyin: lài niào xiā; Jyutping: laaih niu hā) because of their tendency to shoot a jet of water when picked up. After cooking, their flesh is closer to that of lobsters than that of shrimp, and like lobsters, their shells are quite hard and require some pressure to crack. Usually, they are deep fried with garlic and chili peppers.
+
+In the Mediterranean countries, the mantis shrimp Squilla mantis is a common seafood, especially on the Adriatic coasts (canocchia) and the Gulf of Cádiz (galera).
+
+In the Philippines, the mantis shrimp is known as tatampal, hipong-dapa, or alupihang-dagat, and is cooked and eaten like any other shrimp.
+
+In Hawaii, some mantis shrimp have grown unusually large in the contaminated water of the Grand Ala Wai Canal in Waikiki. The dangers normally associated with consuming seafood caught in contaminated waters are present in these mantis shrimp.[3]
+
+Enormous Hermit Crab Tears Through Coconuts, Eats KittensOur hero should thank his lucky stars that Rubber Legs didn’t mimic the praying mantis’ oceanic (though totally unrelated) counterpart: the astonishingly lethal mantis shrimp. He would have been dismembered limb by limb with surgical strikes, which would have really mucked up the tone of an otherwise lighthearted movie.
+
+These are the stomatopods, some 550 known species of mantis shrimp that range from less than an inch long to well over a foot. They’re feisty, beautifully complex creatures that strike so quickly that they momentarily superheat the water around their spring-loaded clubs to a temperature nearly as hot as the surface of the sun.
+
+They may not be particularly big, but they will fight just about anything that so much as looks at them funny. Octopuses, humans, each other – you name it. You see, the mantis shrimp doesn’t grab ass. It kicks it.
+
+
+ARROW
+LISTS
+10 Eye-Popping Facts About Mantis Shrimp
+BY MICHELE DEBCZAK SEPTEMBER 22, 2016
+iStock
+ISTOCK
+"Beautiful" and "deadly" are two descriptors you don’t typically see attached to shrimp. But the mantis shrimp is in a class of its own. This colorful specimen has earned a reputation for being one of the most fearsome creatures of the deep. Here are 10 facts worth knowing about the pint-sized bruisers.
+
+1. THEY’RE NOT SHRIMP.
+
+Despite their namesake and relatively puny stature, mantis shrimp aren’t shrimp at all. (Neither, of course, are they mantises.) They're stomatopods, distant relatives to crabs, shrimp, and lobsters.
+
+2. THEY PACK A POWERFUL PUNCH.
+
+The peacock mantis shrimp (Odontodactylus scyllarus) uses two appendages called dactyl clubs to pummel its prey like aquatic Rock 'Em Sock 'Em Robots—that is, if kids’ toys could punch fast enough to boil water and split fingers to the bone. These wrecking ball "fists" spring forth from their bodies at 50 mph, accelerating quicker than a .22-caliber bullet. At those speeds, the water surrounding them briefly reaches the temperature of the Sun’s surface. When the dactyl clubs hit their target, they deliver 160 pounds of force, smashing through shells like a lightning-fast crab mallet.
+
+
+3. THERE ARE HUNDREDS OF SPECIES.
+
+Mantis shrimp come in a variety of species, and we’re aware of about 550 of them. Stomatopods from different species range in size from smaller than an inch to longer than a foot. They’re usually classified by murder method—either smashing, as detailed above, or spearing. In place of dactyl clubs, spearers have two sharp appendages on the front of their bodies built for harpooning prey. Spear-wielding mantis shrimp don’t move as fast as their club-fisted counterparts (their strikes are about 10 times slower), but the threat of death by impalement is intimidating on its own.
+
+4. THEIR VISION IS UNPARALLELED.
+
+iStock
+Peacock mantis shrimp have the most complex set of peepers in the animal kingdom. Each eye contains 12 photoreceptors that allow them to sense different types of color. For comparison, human eyes typically contain three types of light-sensitive cells for seeing red, blue, and green. This has led some to conclude that mantis shrimp perceive the world in a psychedelic rainbow of vibrant color we can’t begin to comprehend. But in reality, the crustaceans are actually worse at differentiating between subtle variations in hue than we are.
+
+A study from the University of Queensland found that when mantis shrimp were shown colors with a difference in wavelength less than 25 nanometers, they had trouble telling them apart. But just because mantis shrimp may not see the variations between powder blue and periwinkle doesn’t mean their vision isn’t extraordinary. On the contrary, their optic abilities are on a completely separate level from ours, functioning more like a satellite than anything found in nature. Scientists believe that mantis shrimp take all the visual information they see into their brains at once without processing it, allowing them to react to their surroundings as quickly as possible. Their independently roaming eyes and trinocular vision also make them excellent hunters.
+
+5. THEY SHARE A SECRET LANGUAGE.
+
+Roy Caldwell, University Of California, Berkeley
+ 
+In addition to the all epic abilities listed above, mantis shrimp are one of the only creatures capable of seeing polarized light. This has allowed them to develop a secret code that’s undetectable to other species. The Haptosquilla trispinosa species of mantis shrimp wields feathery feeding appendages called maxillipeds that are marked with iridescent, blue spots. The cells of these features reflect light in a unique way. Instead of bouncing light into a reflective structure like the polarizing cells developed by humans, the cells distribute light across the spot’s surface. The brilliant light is plainly visible to other mantis shrimp, allowing them to signal members of their species while staying hidden from predators.
+
+6. YOU WON’T FIND THEM IN MOST AQUARIUMS.
+
+Prilfish via Flickr // CC BY 2.0
+You’d think a mantis shrimp’s technicolor exterior would make it a staple at most aquariums, but this creature is rarely kept in captivity. The same dactyl clubs that allow them to shatter shellfish are also capable of cracking a glass tank. When aquariums do accept a ruthless specimen into their collection, it must kept behind shatterproof acrylic glass. On top of that, a captive mantis shrimp needs to be the sole occupant of its specially constructed home, lest it decides to treat its tank-mates as punching bags.
+
+7. THEY MAKE MENACING SOUNDS.
+
+Elias Levy via Flickr // CC BY 2.0
+It’s only natural that a creature as ferocious as the stomatopod would have a threatening call to match. California mantis shrimp have been known to make low, rumbling growling sounds both in the wild and the lab. Male mantis shrimp often emit grunts at dawn and dusk, the periods of the day when they’re most likely to be hunting for food or guarding their homes. Scientists theorize that the growls are meant to attract mates and ward off competitors.
+
+8. THEY’RE HELPING SCIENTISTS BUILD BETTER BODY ARMOR.
+
+Jens Petersen via Wikimedia Commons // CC-BY-SA-3.0
+ 
+The mantis shrimp’s super-powered punching abilities raise a puzzling question: How can the animal deliver such a deadly blow without injuring itself? To get to the bottom of the mystery, researchers looked at the composition of the peacock mantis shrimp’s built-in weaponry. They found that the creature’s dactyl clubs consisted of an outer coating of hydroxyapatite, a hard crystalline calcium-phosphate ceramic material. Beneath the surface lies the key to the animal’s anti-fracturing qualities. Layers of elastic polysaccharide chitin underlying the shell are positioned in a way to act as shock absorbers, reducing the possibility of cracks. The design is so effective that researchers modeled a new type of carbon fiber material after it with potential applications in aircraft panels and military body armor.
+
+9. THEY PRACTICE SOCIAL MONOGAMY.
+
+
+Barry Peters via Wikimedia Commons // CC BY 2.0
+The life of a mantis shrimp isn’t all cold-blooded killing. Some species of stomatopods are known to engage in the rare practice of social monogamy, a behavior that’s especially remarkable among crustaceans. This means mantis shrimp will choose one partner to share food, shelter, and raise offspring with over the course of a lifetime. What may sound romantic to humans serves a practical purpose for mantis shrimp. Research has shown that certain mantis shrimp tend to cluster outside reefs instead of living in the heart of the action. Without the need to go looking for someone new to mate with on a regular basis, mantis shrimp couples are able to enjoy a relatively safe, sedentary lifestyle secluded from predators.
+
+10. THEY’RE OLDER THAN DINOSAURS.
+
+Derek Keats via Flickr // CC BY 2.0
+Stomatopods began evolving independently from other crustaceans nearly 400 million years ago, about 170 million years before the first dinosaurs appeared on the scene. Since then they’ve followed an isolated, evolutionary lineage that’s resulted in some of their more unique characteristics. Their biology is so bizarre that scientists have assigned them the nickname "shrimp from Mars."
