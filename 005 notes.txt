@@ -1,0 +1,24 @@
+
+       C   D    E   
+A  B  AND  OR  XOR  NOT(C) NAND
+0  0   0
+1  0   0
+0  1   0
+1  1   1
+
+A=1 , B= 2 -> you want to swap the values 
+
+c = a                                   a = a + b
+a = b                                   b = a - b
+b = c                                   a = a - b
+I needed an extra variable!             More memory required!
+
+XOR
+a ->    0001
+b ->    0010
+  
+a = a XOR b ->  0001 XOR 0010 -> A= 0011
+b = a xor b ->  0011 XOR 0010 -> B= 0001
+a = a xor b ->  0011 XOR 0001 -> A= 0010
+No extra memory, no extra variable! -> FASTEST ops!!
+ 
