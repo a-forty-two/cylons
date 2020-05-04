@@ -1,0 +1,124 @@
+CPython v/s IpYthon
+- CONSOLE (precompiled C/C++ libs) , IpYthon is HTML/JS environment
+to make calls to a remote CONSOLE environment 
+
+- MATPLOTLIB -> in CPython it will run natively on my machine as
+C++ code
+- MATPLOTLIB -> in IPython is a CSS/HTML/JS library that will be 
+printed on HTML page on NOTEBOOK! 
+
+
+- CPython -> PRINT was mandatory, IPython (html/css manipulation) 
+only last var name is printed directly
+
+
+
+
+
+
+
+PYTHON libraries are OPEN source, and many authors contribute
+
+some of the malicious libs can CRASH the system permanently 
+
+C++ has pointers -> memory references as direct ADDRESSES 
+
+that is why-> VIRTUAL ENVIRONMENTS are preferred 
+
+building an API, fun prog, NN -> ALWAYS use Virtual Environments 
+
+ENsure version 3+: (NEEDS to be 3.6-> TF is only supported till then)
+C:\prod_demo>python --version
+Python 3.8.0
+
+C:\prod_demo>python3 --version
+
+C:\prod_demo>py --version
+Python 3.8.0
+
+
+
+AS A RESULT -> we have a separate PYTHON, PIP and all other files
+ANY package that will be installed here, will NOT be available
+anywhere ELSE
+
+Any thing installed outside this PIP will not be available here
+
+1) Create a VENV
+2) ACTIVATE it-> CD to SCRIPTS folder, and then activate (.sh,bat,ps1)
+
+C:\prod_demo\pikachu>cd ..
+
+C:\prod_demo>pikachu\Scripts\activate
+
+(pikachu) C:\prod_demo>pikachu\Scripts\deactivate
+
+C:\prod_demo>
+
+
+
+3) FOLDER STRUCTURE:
+
+- Data, Val, Test folders to STORE training,val and scoring data
+
+- LIB or directly package name-> a folder to store the PACKAGE 
+for your model building (PandaVGG)
+
+- BIN -> binaries or outputs 
+
+Right distribution of files:
+
+- Python errors are VERY TRICKY! 
+- SMALLER the file, easier to isolate errors 
+- EACH task of data collection, data cleaning, Training, Scoring,
+   Evaluation, deployment is DONE in SEPARATE FILES
+
+data collection -> AFTER a web, mobile or IoT developer have already
+	written data somewhere as FILE, DB, scanned docs, images etc
+	Appreciation of mobile -> Phonegap (JS) , Xamarin (C#), etc. 
+	Android (Java), iOS (Objective C) 
+	- Output is into Data, Test and Val 
+	- MANY times, this step is MANUAL hence you may not always
+	find a file taking care of this. 
+	- WEb Crawler or Spyder would be a Data Collection file here
+
+data cleaning(EDA)-> Output after this is a CLEAN dataframe/tensor or 
+	similar clean data formats! 
+        - into same folders itself, or BIN folders can be used also
+
+Training, Scoring and Evaluation -> respective jobs via EXPORTING 
+	models (h5, JSON) 
+	- outputs in BIN folder 
+
+Deployment -> Could be Manual, or a PIPELINE.py file or FLASK API 
+	-> MANUAL -> no file (cloud, server, on-prem) 
+	-> PIPELINE -> each step is an independent activity
+		-> EACH step SHOULD happen on a different machine 
+		-> EACH machine has a specific task 
+		-> process is SLOW, Expensive but HIGH performance 
+		-> COMPARABLE to ASSEMBLY unit in a factory
+	    https://realpython.com/python-continuous-integration/
+	-> FLASK API -> VIRTUAL ENVIRONMENT with API deployed 
+
+
+
+
+
+
+
+
+
+example: # from foldername.filename import classname
+
+from PandaVGG.PandaVGGAlgo import ABC
+	- create a folder to rep package name
+	- create a Py file to represent all things you need
+	- inside that Py file, declare your class 
+
+
+
+
+
+
+
+
