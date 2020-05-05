@@ -1,0 +1,135 @@
+Recurrent Neural Networks
+
+Time Series Data 
+Temperature prediction 
+
+day N?
+
+30   31    30 ......
+0     1     2 ........
+how far?
+Temperature tomorrow -> is it dependent when Caeser defeated Pompeii 60BC?
+-> is it dependent on Jurrasic era? 
+
+NEAREST is important 
+FURTHER away in time became lesser important
+1) present = f(past, present) + bias
+	y  = f(x, y) <- recurrent neural network 
+
+ANCIENT history should have been forgotten!!
+2) HOW far were you ready to remember?
+   present = f(past, present, forget(history) ) + bias 
+	y = f(x, y, history) + bias 
+
+Long Short-Term Memory -> Input Gate, Remember Gate, Forget Gate
+1) Input Gate: responsible for a f(x) 
+2) from this Input Gate, we calculate How much to remember (tanh,sig)
+3) the past is multiplied into SIGMOID 
+
+
+Future = f(PAST) + bias 
+y = weights * x + bias  
+
+--------------
+
+historically => owning your servers 
+
+- you will never spill coffee on your server
+- a rat will never bite your cables 
+- short-circuits?
+- fire in the building?
+- what if you fire a grudging engineer capabling of doing
+all of the above?
+- Windows will never update/crash? 
+
+-> what if after buying the servers (256 GB ram, 3.5 GHz processing, 
+16 GB of graphics card) -> cluster of 16 machines 
+
+-> you figure out that was wrong config? 
+
+---------------------------------------------
+2008-> AMAZON e-commerce website -> on-premise 
+
+Holidays -> they face 8-10x more shopping! > more servers
+Normal days-<X or even X/2 shopping! > these servers were wasted 
+
+-> energy required to shut-down and restart is more than consumption
+for clusters (because this keeps happening continously)!!! 
+
+------------------------------------
+RENT out these servers! -> Elastic Computing->
+
+rent a VIRTUAL SERVER, when you are done using it, just delete! 
+This VIRTUAL SERVER was no longer consuming your local resources
+but AMAZON's resources locally!
+
+[E-Commerce-> managing inventory!]
+AWS founded cloud computing , EMC-> storage (NAS, SAN) 
+(Infrastructure as a Service)-> most of the cloud services 
+-> this is the majority even today! 
+--------------------------------------
+[Solutions company]- > architectures
+
+2009 -> Microsoft -> Azure -> if you are not owning the server,
+then why bother about the hardware compoents at all?
+-> WEb Role (front end) and Worker Role (backend + db) 
+-> no infra requirements at all! 
+(Platform as a service) -> forget infra, that;s our problem
+
+-> focus shifted from managing infra, to managing CODE insteAD!
+
+-> Software as a Service -> made possible because of PaaS 
+
+-> fortune 500, financial companies, insurance -> Azure 
+
+------------------------------
+GCP -> 2002-03 -> index the entire internet!!! 
+[Advertising]-> Big Data 
+
+- bots, spiders (crawlers) -> VERY fast pace 
+
+-> ENDED up with data that couldn't be stored in 1 machine anymore
+
+-> BIG DATA 
+-> Google File System -> HDFS 
+-> computing algorithm-> MAP-Reduce -> open source+mods => Apache Spark
+
+-> SaaS -> SOlutions 
+-> DatProc -> existing world was already on Apache SPark
+-> GCP provided a LIFT and SHIFT model for IaaS
+-> and BigQuery, bigTable, cloudSpanner, CLoudSQL -> db SaaS
+
+
+
+-----------------
+2020 -> all of them -> anybody who does something is 
+immediately (little delay available everywhere else) 
+
+
+
+Azure -> has left all the other clouds 50 years behind for AI/ML 
+-> support for on-prem, AI/ML, gene sequencing
+
+
+Azure is the only cloud-> AI/ML and IoT models and run them on-prem
+
+Azure will treat your infra as if it were Azure itself!!
+-> HYBRID CLOUD!!! 
+
+Gene Sequencing -> DNA, RNA-> A,B,G... -> Palindromic Sequences 
+AI/ML -> predict diseases and fixes, inc lifespan, travel in space
+new food items, lab-grown cruelty free meat 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
