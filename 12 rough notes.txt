@@ -1,0 +1,164 @@
+- Collect Data
+- Store the data (BigData)
+- Analyze the data
+- Build the model
+- deploy the model 
+
+-> First store in OLTP (original), wait for a day/week 
+-> transfer all data to OLAP (it collects from diff OLTPs) 
+-> then do all the analytics 
+
+-> SQL datawarehouse , HBase (no-sql warehouse) , Apache+HDFS 
+
+SQL DB+Sql Server                v/s      SQL DW+SQL Server
+
+- small payloads (TRANSACTIONS)      - large ANALYTICAL payloads
+- poor performance on analytics      - poor performance on transactions
+- Sign Up, Sign In, IMPS/NEFT        - Once you enter data, its
+- 100% or 0% complete                  meant to be stable and not 
+				       change frequently!
+- NORMALIZED -optimal ops!           - jumps take time! flat tables!
+					NORMALIZATION not preferred!
+- good performance less than ~1TB     - starts beyond ~1TB
+
+
+
+OLTP                                   OLAP
+
+
+- WareHouses -> ordered a book -> CARTONS or Containers 
+	- books will be kept togther, veggies will be together
+	- inventory will be PROPERLY classified
+	- otherwise SEARCHING for items will become a nightmare!
+	- BIG data! 
+	- BigQuery, BigTable -> they do not support element level ops
+		- row-level ops! 
+
+
+- Portal -> ordered a book -> place to order
+	- lot of categories 
+	- options and all over the place! 
+	- data is small and easy to search
+	- smallest unit (cell) can be accessed and edited!
+
+
+
+- STRUCTURED and UNSTRUCTURED 
+	- Google Maps -> A->B (name, lat, long) 
+	Driving-> STRUCTURED data!
+	Flying-> NOT in the FORMAT that I WANT! -> UNSTRUCTURED!
+	- Live Streaming-> pollution sensor => every 1 min-> 1kb
+	-> {timestamp: <ts> , CO: <level> }-> STRUCTURED!!!
+	-> VIDEO -> image arrays + sync sound -> FIXED fps-> STRUCT!
+	-> PARTICULAR FOLDERS and kept images inside-> structured!
+
+	-> IS THE DATA IN THE FORMAT THAT APPLICATION WANTS???
+		- yes? structured!
+		- no? unstructured!
+	-> UNSTRUCTURED data is dumped in a data lake and then 
+		processed into a structure! 
+		-> 100 sql backups -> extract and load into Lake
+			-> ingest/restore into a database 
+
+- SQL and NOSQL
+	- tables v/s collections 
+	- rows v/s documents
+	- RELATIONAL (normalization) v/s Non Relational (denorm)
+	- ACID-> both! 
+	- format is SQL,    format is BSON 
+	- EVERY row contains same columns, every record may be diff
+	
+NoSQL has an advantage of searching-> TREE-> 
+-> CLAIM you can process MILLIONS of records per second! 
+-> DB can also do that -> INDEXING! 
+
+COSMOS DB -> An API not a DB-> Cosmos db is a wrapper on top of
+ dbs like SQL, Mongo, Cassandra, Azure Tables -> STORAGE
+    -> SCALABILITY is not of db, but of individual tables/collection
+    -> boasts to support BOTH OLAP and OLTP (use OR not AND)
+
+
+
+- Relational and Non Relational 
+	- whenever there is a RELATION (foreign key)
+	- absence of it is NON-Relational
+	-> in nosql relations are POSSIBLE, but discouraged 
+	-> jumping takes time between collctio
+	-> SQL DataBase will promote relations -> NORMALIZATION
+
+
+f(performance) + f(size) = 1 -> a server has FIXED capacity! 
+https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
+
+
+
+-> BATCH data is collected and then transfered
+-> Stream data is transferred and then collected 
+
+
+Cloud -> consume ELECTRICITY! REAL ESTATE! 
+	-> cloud prices CANNOT be same everywhere!
+	-> either you bill for TIME or bill for PERFORMANCE! 
+	-> Infra and sometimes platform, v/s platform and saas
+
+-> LOCATION on CLOUD
+	- Am i a web/mobile/iot app or am I an analytics app?
+	   - CLOSE to users!         - CHEAPEST location! 
+	   - low latency             - BULK of data! COST!
+
+-> How sensitive is your data?
+	- SENSITIVE -> you have to follow the REGULATIONS! 
+	-> ISO27001, GDPR, RED, PCIDSS, HIPPA, POCSO 
+
+
+-> East US, South Korea -> cheapest regions 
+
+-> Redundancy means multiple instances are ready for load
+(NOT SINGLE)
+-> Data Eng/Data SCientist -> not serving web/mobile customer! 
+ 	-> FAST access-> LOCAL REDUNDANCY! 
+	-> if data was dist across regions or globe it will only
+		increase my cost! so do it oNly if you have a 
+		budget to do it!
+	-> DATA should be more expensive than its upkeep cost! 
+
+
+-> 3 servers -> kept together -> short circuit 
+	-> Don't keep them together!
+	-> servers will be kept on diff racks inside same DC/nearest
+		clone datacenter
+	-> LOCAL REDUNDANCY 
+
+-> earthquake? 
+	-> copy data across regions! (within same country!)
+	-> ZONAL redundancy/ regional redundancy 
+
+-> govt fails? 	
+	-> COPY data across GLOBE / multiple datacenters!
+	-> GLOBAL redundancy! 
+	
+-> Business Countinuity -> if a write region fails, then a read-only
+region comes into picture. No NEW records can be created, but
+existing data is accessible! 
+
+-> Disaster recovery-> bringing a failed object back into production!
+
+
+
+
+
+
+-> ARCHIVAL or historical data (usually accessed < 1 times per month)
+ is for COOL tier. COST is very low, PERFORMANCE is also very low
+
+   -> GLACIERS or Cool tiers 
+
+
+- Streaming has 2 architectures
+	- LAMBDA
+	- KAPPA 
+
+
+
+
+
