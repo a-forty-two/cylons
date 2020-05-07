@@ -1,0 +1,53 @@
+BCA:
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/596816822991964/251039699341097/1899624237163506/latest.html
+
+Ways to store in Apache Spark:
+https://data-flair.training/blogs/apache-spark-rdd-persistence-caching/
+
+Join Ops:
+https://dzone.com/articles/pyspark-join-explained-with-examples
+
+Py v/s Pyspark DF:
+https://medium.com/@chris_bour/6-differences-between-pandas-and-spark-dataframes-1380cec394d2
+
+- PySpark             			Py
+- PARALLEL ops across machines         -single machine
+- slow for small queries/data          - slow for large queries/data
+- LAZY evaluation (eager is possible)  - eager operations 
+- declarative (SPARK does things-      - Imperative, packages
+we only call its APIs(DataFrame, SC,
+SQLContext,StreamContext) ) 
+  -> WHAT to do? computer decides      - HOW TO DO and what to do
+     how to do
+- ANALYTICS-> df once created you      - transactions, changes
+cannot mutate it!			 are expected and frequent
+- SIMPLE queries, nested queries       - very complex queries
+can be very big load, hence should be  - web/mobile/robot apps
+avoided-> PySpark to apply 		(near-real time apps) 
+transformations and save results as DF
+- ANALYTICS or EDA or ML (things that 
+can wait) 
+
+
+Hadoop -> PETABYTE level scalability-> need a compute type(HIVE, 
+         MapReduce, SQL etc.) 
+
+HBase -> Unstructured Data ; mega-sclabale NO-SQL data 
+
+Kafka -> throw data outside clulsters as stream 
+
+STORM -> consume huge amount of streams from other sources 
+
+Spark -> High performance CLUSTERED computing -> need a storage type
+	(hadoop, HDFS like, datalakes!) 
+
+InteractiveQuery -> for SQL experts 
+
+ R-> exclusively ML services in R 
+
+
+HSM -> HArdware security module -> HARDWARE encryption
+
+
+Lunch break-> let's resume at 
+2 PM
