@@ -1,0 +1,125 @@
+https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/tools-included
+
+
+Any Azure Service:
+- UI -> no-code approach 
+- SDK/API call-> programmers
+- Command line interface -> administrators
+
+
+Get the data -> open source data/import your data
+Build a ML pipeline -> Learning will happen, model is the result
+Deploy the model:
+
+- On prem                            - cloud
+    - flask API on server             - flask API on a VM
+    - SDKs (C#,C++,NodeJS)            - Web or Mobile API
+    - Edge Computing (intranet)       - Edge computing (inter or intra)
+
+Edge -> AI running on Device itself!
+Device (client) -> Server -> normal computing
+- latency, adds delay
+- what if network was unavailable?
+
+-> SERVER and CLIENT is stored on DEVICE itself
+	- no latency 
+	- autonomous robot, smart car 
+
+- stop on red light 
+	-> SERVER and waited for response 
+	-> CNN that detected red traffic light and stopped(EDGE)
+CNN becomes a better appraoch 
+
+-> Google Certified Professional Data Engineer 
+-> Microsoft Cert. Data Scientist
+-> " Data eNGINEER
+-> " AI Engineer
+
+---- Machine Learning-----
+
+- dataset-> Automobile Price 
+	- normalized losses -> too many null values
+	- even on row level, we may have some null value
+- handle both rows (drop/replaced) and columns (drop column)!
+
+- stratified split -> balanced splitting for classifications
+
+- COMPUTE TARGET-
+	- EACH step of your pipeline COULD've RUN on a
+		different machine!
+	- EACH step of your pipeline could've handled the load of 
+		entire dataset many times!
+	- 100% of machine performance is dedicated only to 1 operation!
+
+	-> 1 machine in our example!
+
+
+
+- We have built a training pipeline->
+	- to bring into production, i need to collect new records
+	to predict!!
+
+	- Input from WEB instead of SAMPLE data! 
+
+	- this may not be the best way to run pipeline!
+		- Azure is going to optimize this pipeline!!!
+
+
+-> BRINGING model from training to production is called INFERENCE!!
+      -> TRAINING (FIt, Score, Evaluate) and INFERENCE (use,monitor,
+			reinforce, optimize etc. etc.)
+
+            -> BATCH API-> you will provide data in batch, and return
+			predictions in a batch
+	    -> Real Time API-> pass 1 input, get 1 result
+
+DEPLOYING -> PRODUCTION CLUSTER!!!
+
+TRAINING -> was on cluster [it had a lot of things for dev, that
+will not be used while in production env!]
+
+Inference Machines are ALWAYS different than training machines!!
+
+WEB -> KUBERNETES (cluster of machines virtualizer) 
+ 	DOCKER    (SINGLE container machines) 
+
+SMALL BUDGET/intranet/ small no. of users-> DOCKERs were good enough
+
+internet/large/production level performance-> KUBERNETES, 
+					TPUs*(GCP)/HPC**(Az)
+ * Tensor Processing Unit
+ ** High Performance Computing
+
+INTRANET and no cloud automation preferrend-> FLASK API 
+
+IoT -> because we have independent robots, drones, arms, smart cars
+      -> we want somethign COMPACT, small in size, min. power 
+		consumption!
+      -> FPGA -> field programmable gate arrays 
+      -> Docker -> ONLY if size of the device is not a problem
+		-> raspberry PI or similar device-> install linux
+			and python 3, and build a flask API! 
+
+
+NOTEBOOKS -> Docker or single machine (Google Compute Engine) 
+
+- deploy Pipleline as Kubernetes Cluster
+	- first convert your pipeline into a INFERENCE pipeline
+	- create Kubernetes Cluster (Compute)
+	- from Inference pipeline-> click deploy
+	-> view endpoints (Endpoint)
+
+
+
+- LUIS
+
+	- sr111, sr234, sr555
+	- s r digit digit digit 
+	- the pattern that my order numbers are followiNG!
+
+- REGULAR EXPRESSION 
+
+
+
+
+
