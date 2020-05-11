@@ -1,3 +1,7 @@
+
+# !curl -X POST -F image=@monkey.jpg "http://localhost:5000/predict"
+
+
 from keras.applications import ResNet50 # IMAGE: VGG, Resnet, Alexnet 
 from keras.preprocessing.image import img_to_array
 from keras.applications import imagenet_utils 
