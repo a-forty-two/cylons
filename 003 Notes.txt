@@ -8,7 +8,7 @@ TIME ACC  CVS SCORE
 -> choosing metrics would have been easier task!
 -> best metric is Time-> no, ACC->yes, CVS->no
 
-Regulari-> L1, L2
+Regulari-> L1, L2  
 
 
 
